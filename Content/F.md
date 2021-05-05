@@ -2,9 +2,9 @@
 
 > Descripción
 
-[Inicio](AZ900Concepts)
+[Inicio](jona866/AZ900ConceptsAZ900Concepts)
 
 :octocat:
 
-[Inicio](AZ900Concepts)
+[Inicio](https://github.com/jona866/AZ900ConceptsAZ900Concepts)
 :shipit:
