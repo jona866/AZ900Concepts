@@ -1,11 +1,18 @@
 ![Portada](Img/p1.png)
 
-# Conceptos Certificación Azure AZ-900 :octocat:
-> En este repositorio se agregarán conceptos relacionados a la certificación de Azure Fundamentals AZ-900.
+# Conceptos Azure AZ-900
 
-## Table of Contents :shipit:
+> En este repositorio se recopilan conceptos importantes relacionados a los contenidos de Azure Fundamentals AZ-900.
+> 
+> Forma parte de las actividades realizadas en los ciclos de innovación. 
+> 
+> :shipit:
 
-  0. [Fundamentals](Content/F.md) 
-  1. [Introduction to Azure Fundamentals](Content/IAF.md) 
-  2. [Disuss Azure Fundamental Concepts](Content/DAFC.md)
+## Módulos
+
+  1. [Introduction to Azure fundamentals](Content/IAF.md) 
+  2. [Discuss Azure fundamental concepts](Content/DAFC.md)
   3. [Describe core Azure architectural components](Content/DCAAC.md)
+
+
+Actualizado: 2021/05/05
