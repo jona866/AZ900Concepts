@@ -104,7 +104,7 @@ Espacio que ayuda a conectar a los usuarios con socios de Microsoft, proveedores
 
 ___
 
-[Inicio](#Introducción-a-los-fundamentos-de-Azure)
+[Inicio](#Introduction-to-Azure-fundamentals)
 
 
 
