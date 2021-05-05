@@ -34,8 +34,9 @@ Al igual que PaaS, la computación sin servidor permite a los desarrolladores cr
 
 ___
 
-[Inicio](#Disuss-Azure-fundamental-concepts)
+
+| ⬆️ | ⬅️ | ➡️ | 🏠 |
+| --- | --- | --- | --- |
+| [Inicio](#Disuss-Azure-fundamental-concepts) | [Anterior](https://github.com/jona866/AZ900Concepts/blob/main/Content/IAF.md) | [Siguiente](https://github.com/jona866/AZ900Concepts/blob/main/Content/DCAAC.md) | [Home](https://github.com/jona866/AZ900Concepts/blob/main/README.md) |
 
 Recuperado de: [Módulo: Disuss Azure fundamental concepts](https://docs.microsoft.com/en-gb/learn/modules/fundamental-azure-concepts/)
-
-🏠 [Home](https://github.com/jona866/AZ900Concepts/blob/main/README.md) ⬅️ [Anterior](https://github.com/jona866/AZ900Concepts/blob/main/Content/IAF.md) [Siguiente](https://github.com/jona866/AZ900Concepts/blob/main/Content/DCAAC.md) ➡️
