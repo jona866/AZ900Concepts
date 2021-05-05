@@ -36,4 +36,6 @@ ___
 
 [Inicio](#Disuss-Azure-fundamental-concepts)
 
-Recuperado de: [Modulo: Disuss Azure fundamental concepts](https://docs.microsoft.com/en-gb/learn/modules/fundamental-azure-concepts/)
+Recuperado de: [Módulo: Disuss Azure fundamental concepts](https://docs.microsoft.com/en-gb/learn/modules/fundamental-azure-concepts/)
+
+[Home](https://github.com/jona866/AZ900Concepts/blob/main/README.md) [Anterior](https://github.com/jona866/AZ900Concepts/blob/main/Content/IAF.md) [Siguiente](https://github.com/jona866/AZ900Concepts/blob/main/Content/DAFC.md)
