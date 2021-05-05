@@ -1,4 +1,4 @@
-# Introducción a los fundamentos de Azure
+# Introduction to Azure fundamentals
 
 > Este módulo le presenta los conceptos básicos de la computación en la nube y Azure, y cómo comenzar con las suscripciones y cuentas de Azure.
 
