@@ -2,7 +2,7 @@
 
 > Este módulo le presenta los conceptos básicos de la computación en la nube y Azure, y cómo comenzar con las suscripciones y cuentas de Azure.
 
-## Contenido 📖
+## 📚 Contenido 
 
 - [Computación en la nube](#Computación-en-la-nube)
   - Fiabilidad
@@ -24,10 +24,10 @@
 
 ___
 
-## Conceptos 📝
+## 📝 Conceptos 
 
 
-### Computación en la nube ☁️
+### 🔷 Computación en la nube 
 
 ***Fiabilidad***
 
@@ -88,7 +88,7 @@ Este entorno informático combina una nube pública y una nube privada al permit
 
 
 
-### Introducción a Azure 💻
+### 🔷 Introducción a Azure
 
 ***Azure***
 
