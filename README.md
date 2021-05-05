@@ -3,4 +3,4 @@ En este repositorio se agregarán conceptos relacionados a la certificación de 
 
 ## Table of Contents
 
-  1. [Introduction to Azure Fundamentals](content/IAF)
+  1. [Introduction to Azure Fundamentals](content/prueba.md)
