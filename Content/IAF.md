@@ -23,19 +23,19 @@
   - [Azure Marketplace](#Azure-Marketplace)
   - [Cuenta gratuita de Azure](#Cuenta-gratuita-de-Azure)
   - [Learn Sandbox](#Learn-Sandbox)
+
 ___
 
 ## Conceptos
 
-***
 
 ### Computación en la nube
 
-***Fiabilidad***
+#### ***Fiabilidad***
 
 Según el acuerdo de nivel de servicio que elija, sus aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua sin tiempo de inactividad aparente, incluso cuando las cosas van mal.
 
-***Escalabilidad***
+#### ***Escalabilidad***
 
 Las aplicaciones en la nube se pueden escalar de dos maneras, mientras se aprovechan las ventajas del escalado automático:
 
@@ -87,7 +87,7 @@ Los recursos informáticos son utilizados exclusivamente por usuarios de una emp
 
 Este entorno informático combina una nube pública y una nube privada al permitir que los datos y las aplicaciones se compartan entre ellos.
 
-***
+
 
 ### Azure
 
