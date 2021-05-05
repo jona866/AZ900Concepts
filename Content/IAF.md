@@ -5,24 +5,24 @@
 ## Contenido 
 
 - [¿Qué es la computación en la nube?](#Computación-en-la-nube)
-  - [Fiabilidad](#Fiabilidad)
-  - [Escalabilidad](#Escalabilidad)
-  - [Elasticidad](#Elasticidad)
-  - [Agilidad](#Agilidad)
-  - [Distribución geográfica](#Distribución-geográfica)
-  - [Recuperación ante desastres](#Recuperación-ante-desastres)
-  - [IaaS](#IaaS)
-  - [PaaS](#PaaS)
-  - [SaaS](#SaaS)
-  - [Nube pública](#Nube-pública)
-  - [Nube privada](#Nube-privada)
-  - [Nube híbrida](#Nube-híbrida)
-- [Cociniento Azure](#Conociendo-Azure)
+  - Fiabilidad
+  - Escalabilidad
+  - Elasticidad
+  - Agilidad
+  - Distribución geográfica
+  - Recuperación ante desastres
+  - IaaS
+  - PaaS
+  - SaaS
+  - Nube pública
+  - Nube privada
+  - Nube híbrida
+- [Introducción a Azure](#Introducción-a-Azure)
   - [Azure](#Azure)
-  - [Portal de Azure](#Portal-de-Azure)
-  - [Azure Marketplace](#Azure-Marketplace)
-  - [Cuenta gratuita de Azure](#Cuenta-gratuita-de-Azure)
-  - [Learn Sandbox](#Learn-Sandbox)
+  - Portal de Azure
+  - Azure Marketplace
+  - Cuenta gratuita de Azure
+  - Learn Sandbox
 
 ___
 
@@ -31,11 +31,11 @@ ___
 
 ### Computación en la nube
 
-#### ***Fiabilidad***
+***Fiabilidad***
 
 Según el acuerdo de nivel de servicio que elija, sus aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua sin tiempo de inactividad aparente, incluso cuando las cosas van mal.
 
-#### ***Escalabilidad***
+***Escalabilidad***
 
 Las aplicaciones en la nube se pueden escalar de dos maneras, mientras se aprovechan las ventajas del escalado automático:
 
@@ -89,7 +89,7 @@ Este entorno informático combina una nube pública y una nube privada al permit
 
 
 
-### Azure
+### Introducción a Azure
 
 ***Azure***
 
