@@ -17,7 +17,7 @@
   - Nube pública
   - Nube privada
   - Nube híbrida
-- [Introducción a Azure](#🔷-Introducción-a-Azure)
+- [Introducción a Azure](#:large_blue_diamond:-Introducción-a-Azure)
   - Azure
   - Portal de Azure
   - Azure Marketplace
