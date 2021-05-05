@@ -104,8 +104,8 @@ Espacio que ayuda a conectar a los usuarios con socios de Microsoft, proveedores
 
 ___
 
-[Inicio](#Introduction-to-Azure-fundamentals)
+| ⬆️ | ➡️ | 🏠 |
+| --- | --- | --- |
+| [Inicio](#Introduction-to-Azure-fundamentals) | [Siguiente](https://github.com/jona866/AZ900Concepts/blob/main/Content/DAFC.md) | [Home](https://github.com/jona866/AZ900Concepts/blob/main/README.md) |
 
 Recuperado de: [Módulo: Introduction to Azure fundamentals](https://docs.microsoft.com/en-gb/learn/modules/intro-to-azure-fundamentals/?WT.mc_id=cloudskillschallenge_1b157d7d-b99e-4cf8-8523-9c8b51f93c1b&ns-enrollment-type=Collection&ns-enrollment-id=ddkzhpd6gqn7)
-
-[Home](https://github.com/jona866/AZ900Concepts/blob/main/README.md) [Siguiente](https://github.com/jona866/AZ900Concepts/blob/main/Content/DAFC.md)
