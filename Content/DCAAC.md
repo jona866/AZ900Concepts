@@ -75,6 +75,10 @@ Cada región de Azure siempre está emparejada con otra región dentro de la mis
 
 ___
 
-[Inicio](#Describe-core-Azure-architectural-components)
+
+
+| ⬆️ | ⬅️ | 🏠 |
+| --- | --- | --- |
+| [Inicio](#Describe-core-Azure-architectural-components) | [Anterior](https://github.com/jona866/AZ900Concepts/blob/main/Content/DAFC.md) | [Home](https://github.com/jona866/AZ900Concepts/blob/main/README.md) |
 
 Recuperado de: [Módulo: Describe core Azure architectural components](https://docs.microsoft.com/en-gb/learn/modules/azure-architecture-fundamentals/?WT.mc_id=cloudskillschallenge_1b157d7d-b99e-4cf8-8523-9c8b51f93c1b&ns-enrollment-type=Collection&ns-enrollment-id=ddkzhpd6gqn7)
