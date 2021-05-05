@@ -4,12 +4,12 @@
 
 ## Conceptos 
 
-- [¿Qué es la computación en la nube?](¿Qué-es-la-computación-en-la-nube?)
-- ¿Azure?
+- [¿Qué es la computación en la nube?](#Computación-en-la-nube)
+- [¿Azure?](#Azure)
 
 ___
 
-### ¿Qué es la computación en la nube?
+### Computación en la nube
 
 ***Fiabilidad**
 Según el acuerdo de nivel de servicio que elija, sus aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua sin tiempo de inactividad aparente, incluso cuando las cosas van mal.
@@ -53,9 +53,9 @@ Los recursos informáticos son utilizados exclusivamente por usuarios de una emp
 ***Nube híbrida***
 Este entorno informático combina una nube pública y una nube privada al permitir que los datos y las aplicaciones se compartan entre ellos.
 
-___
 
-### ¿Azure?
+
+### Azure
 
 ***Azure***
 Azure es un conjunto de servicios en la nube que se expande continuamente y que ayuda a su organización a enfrentar sus desafíos comerciales actuales y futuros.
@@ -81,9 +81,10 @@ Ayuda a conectar a los usuarios con socios de Microsoft, proveedores de software
 ***Cuenta gratuita de Azure***
 La cuenta gratuita de Azure es una forma excelente para que los nuevos usuarios comiencen y exploren. Para registrarse, necesita un número de teléfono, una tarjeta de crédito y una cuenta de Microsoft o GitHub. La información de la tarjeta de crédito se usa solo para verificación de identidad. No se le cobrará por ningún servicio hasta que actualice a una suscripción paga.
 
-***Learn Sandbox ***
+***Learn Sandbox***
 Muchos de los ejercicios de Learn usan una tecnología llamada sandbox, que crea una suscripción temporal que se agrega a su cuenta de Azure. Esta suscripción temporal le permite crear recursos de Azure durante la duración de un módulo de aprendizaje. Learn limpia automáticamente los recursos temporales después de que haya completado el módulo.
 Cuando esté completando un módulo de Learn, puede usar su suscripción personal para completar los ejercicios en un módulo. Sin embargo, el espacio aislado es el método preferido porque le permite crear y probar recursos de Azure sin costo alguno para usted.
 
+___
 
 Recuperado de: [Modulo: Introducción a los fundamentos de Azure](https://docs.microsoft.com/en-gb/learn/modules/intro-to-azure-fundamentals/?WT.mc_id=cloudskillschallenge_1b157d7d-b99e-4cf8-8523-9c8b51f93c1b&ns-enrollment-type=Collection&ns-enrollment-id=ddkzhpd6gqn7)
