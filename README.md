@@ -1,7 +1,7 @@
 ![Portada](Img/p1.png)
 
 # Conceptos Certificación Azure AZ-900
-En este repositorio se agregarán conceptos relacionados a la certificación de Azure Fundamentals AZ-900.
+> En este repositorio se agregarán conceptos relacionados a la certificación de Azure Fundamentals AZ-900.
 
 ## Table of Contents
 
