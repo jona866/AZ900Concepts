@@ -2,12 +2,32 @@
 
 > Este módulo le presenta los conceptos básicos de la computación en la nube y Azure, y cómo comenzar con las suscripciones y cuentas de Azure.
 
-## Conceptos 
+## Contenido 
 
 - [¿Qué es la computación en la nube?](#Computación-en-la-nube)
-- [¿Azure?](#Azure)
-
+  - [Fiabilidad](#Fiabilidad)
+  - [Escalabilidad](#Escalabilidad)
+  - [Elasticidad](#Elasticidad)
+  - [Agilidad](#Agilidad)
+  - [Distribución geográfica](#Distribución-geográfica)
+  - [Recuperación ante desastres](#Recuperación-ante-desastres)
+  - [IaaS](#IaaS)
+  - [PaaS](#PaaS)
+  - [SaaS](#SaaS)
+  - [Nube pública](#Nube-pública)
+  - [Nube privada](#Nube-privada)
+  - [Nube híbrida](#Nube-híbrida)
+- [Cociniento Azure](#Conociendo-Azure)
+  - [Azure](#Azure)
+  - [Portal de Azure](#Portal-de-Azure)
+  - [Azure Marketplace](#Azure-Marketplace)
+  - [Cuenta gratuita de Azure](#Cuenta-gratuita-de-Azure)
+  - [Learn Sandbox](#Learn-Sandbox)
 ___
+
+## Conceptos
+
+***
 
 ### Computación en la nube
 
@@ -67,7 +87,7 @@ Los recursos informáticos son utilizados exclusivamente por usuarios de una emp
 
 Este entorno informático combina una nube pública y una nube privada al permitir que los datos y las aplicaciones se compartan entre ellos.
 
----
+***
 
 ### Azure
 
@@ -83,19 +103,6 @@ Azure Portal es una consola unificada basada en web que ofrece una alternativa a
 
 Ayuda a conectar a los usuarios con socios de Microsoft, proveedores de software independientes y nuevas empresas que ofrecen sus soluciones y servicios, que están optimizados para ejecutarse en Azure. Los clientes de Azure Marketplace pueden buscar, probar, comprar y aprovisionar aplicaciones y servicios de cientos de proveedores de servicios líderes. Todas las soluciones y servicios están certificados para ejecutarse en Azure.
 
-***Servicios de Azure***
-
-- Computo
-- Redes
-- Almacenamiento
-- Móvil
-- Bases de datos
-- Web
-- Internet de las cosas (IoT)
-- Big data
-- AI
-- DevOps
-
 ***Cuenta gratuita de Azure***
 
 La cuenta gratuita de Azure es una forma excelente para que los nuevos usuarios comiencen y exploren. Para registrarse, necesita un número de teléfono, una tarjeta de crédito y una cuenta de Microsoft o GitHub. La información de la tarjeta de crédito se usa solo para verificación de identidad. No se le cobrará por ningún servicio hasta que actualice a una suscripción paga.
@@ -106,5 +113,9 @@ Muchos de los ejercicios de Learn usan una tecnología llamada sandbox, que crea
 Cuando esté completando un módulo de Learn, puede usar su suscripción personal para completar los ejercicios en un módulo. Sin embargo, el espacio aislado es el método preferido porque le permite crear y probar recursos de Azure sin costo alguno para usted.
 
 ___
+
+[Inicio](#Introducción-a-los-fundamentos-de-Azure)
+
+
 
 Recuperado de: [Modulo: Introducción a los fundamentos de Azure](https://docs.microsoft.com/en-gb/learn/modules/intro-to-azure-fundamentals/?WT.mc_id=cloudskillschallenge_1b157d7d-b99e-4cf8-8523-9c8b51f93c1b&ns-enrollment-type=Collection&ns-enrollment-id=ddkzhpd6gqn7)
