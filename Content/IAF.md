@@ -4,7 +4,7 @@
 
 ## 📚 Contenido 
 
-- [Computación en la nube](#Computación-en-la-nube)
+- [Computación en la nube](#🔷-Computación-en-la-nube)
   - Fiabilidad
   - Escalabilidad
   - Elasticidad
@@ -17,7 +17,7 @@
   - Nube pública
   - Nube privada
   - Nube híbrida
-- [Introducción a Azure](#Introducción-a-Azure)
+- [Introducción a Azure](#🔷-Introducción-a-Azure)
   - Azure
   - Portal de Azure
   - Azure Marketplace
@@ -108,4 +108,4 @@ ___
 
 
 
-Recuperado de: [Modulo: Introducción a los fundamentos de Azure](https://docs.microsoft.com/en-gb/learn/modules/intro-to-azure-fundamentals/?WT.mc_id=cloudskillschallenge_1b157d7d-b99e-4cf8-8523-9c8b51f93c1b&ns-enrollment-type=Collection&ns-enrollment-id=ddkzhpd6gqn7)
+Recuperado de: [Modulo: Introduction to Azure fundamentals](https://docs.microsoft.com/en-gb/learn/modules/intro-to-azure-fundamentals/?WT.mc_id=cloudskillschallenge_1b157d7d-b99e-4cf8-8523-9c8b51f93c1b&ns-enrollment-type=Collection&ns-enrollment-id=ddkzhpd6gqn7)
