@@ -5,13 +5,6 @@
 ## Contenido 
 
 - [Computación en la nube](#Computación-en-la-nube)
-
-| Fiabilidad | Escalabilidad | Elasticidad | Agilidad | Distribución geográfica |
-| Recuperación ante desastres  | IaaS | PaaS | SaaS | Nube pública |
-| Nube privada | Nube híbrida | | | |
-
-
-
   - Fiabilidad
   - Escalabilidad
   - Elasticidad
