@@ -4,7 +4,7 @@
 
 ## Contenido 
 
-- [¿Qué es la computación en la nube?](#Computación-en-la-nube)
+- [Computación en la nube](#Computación-en-la-nube)
   - Fiabilidad
   - Escalabilidad
   - Elasticidad
@@ -18,7 +18,7 @@
   - Nube privada
   - Nube híbrida
 - [Introducción a Azure](#Introducción-a-Azure)
-  - [Azure](#Azure)
+  - Azure
   - Portal de Azure
   - Azure Marketplace
   - Cuenta gratuita de Azure
