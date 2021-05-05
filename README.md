@@ -3,4 +3,7 @@ En este repositorio se agregarán conceptos relacionados a la certificación de 
 
 ## Table of Contents
 
-  1. [Introduction to Azure Fundamentals](Content/prueba.md)
+  0. [Fundamentals](Content/F) 
+  1. [Introduction to Azure Fundamentals](Content/IAF.md) 
+  2. [Disuss Azure Fundamental Concepts](Content/DAFC.md)
+  3. [Describe core Azure architectural components](Content/DCAAC.md)
