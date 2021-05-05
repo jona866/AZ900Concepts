@@ -34,8 +34,6 @@ Al igual que PaaS, la computación sin servidor permite a los desarrolladores cr
 
 ___
 
-[Inicio](#Disuss Azure-fundamental-concepts)
-
-
+[Inicio](#Disuss-Azure-fundamental-concepts)
 
 Recuperado de: [Modulo: Disuss Azure fundamental concepts](https://docs.microsoft.com/en-gb/learn/modules/fundamental-azure-concepts/)
