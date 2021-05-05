@@ -1,5 +1,0 @@
-# Fundamentals
-
-> Descripción
-
-:shipit:
