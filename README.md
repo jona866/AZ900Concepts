@@ -2,10 +2,8 @@
 
 # Conceptos Azure AZ-900
 
-> En este repositorio se recopilan conceptos importantes relacionados a los contenidos de Azure Fundamentals AZ-900.
-> 
-> Forma parte de las actividades realizadas en los ciclos de innovación. 
-> 
+> Este repositorio Forma parte de las actividades realizadas en los ciclos de innovación. Aquí se recopilan conceptos importantes relacionados a los contenidos de Azure Fundamentals AZ-900.
+>
 > :shipit:
 
 ## Módulos
