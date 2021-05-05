@@ -4,7 +4,7 @@
 
 ## 📚 Contenido 
 
-- [Computación en la nube](#🔷-Computación-en-la-nube)
+- [Computación en la nube](#Computación-en-la-nube)
   - Fiabilidad
   - Escalabilidad
   - Elasticidad
@@ -17,7 +17,7 @@
   - Nube pública
   - Nube privada
   - Nube híbrida
-- [Introducción a Azure](#:large_blue_diamond:-Introducción-a-Azure)
+- [Introducción a Azure](#Introducción-a-Azure)
   - Azure
   - Portal de Azure
   - Azure Marketplace
@@ -27,7 +27,7 @@ ___
 ## 📝 Conceptos 
 
 
-### 🔷 Computación en la nube 
+### Computación en la nube 
 
 ***Fiabilidad***
 
@@ -88,7 +88,7 @@ Este entorno informático combina una nube pública y una nube privada al permit
 
 
 
-### 🔷 Introducción a Azure
+### Introducción a Azure
 
 ***Azure***
 
