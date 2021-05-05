@@ -21,8 +21,6 @@
   - Azure
   - Portal de Azure
   - Azure Marketplace
-  - Cuenta gratuita de Azure
-  - Learn Sandbox
 
 ___
 
@@ -33,7 +31,7 @@ ___
 
 ***Fiabilidad***
 
-Según el acuerdo de nivel de servicio que elija, sus aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua sin tiempo de inactividad aparente, incluso cuando las cosas van mal.
+Experiencia de usuario continua sin tiempo de inactividad aparente, incluso cuando las cosas van mal.
 
 ***Escalabilidad***
 
@@ -65,15 +63,16 @@ Al aprovechar los servicios de respaldo basados en la nube, la replicación de d
 
 ***IaaS***
 
-Este modelo de servicio en la nube es el más cercano a la gestión de servidores físicos. Un proveedor de la nube mantiene el hardware actualizado, pero el mantenimiento del sistema operativo y la configuración de la red se dejan al inquilino de la nube. Por ejemplo, las máquinas virtuales de Azure son dispositivos de cómputo virtual totalmente operativos que se ejecutan en los centros de datos de Microsoft. Una ventaja de este modelo de servicio en la nube es la rápida implementación de nuevos dispositivos informáticos. Configurar una nueva máquina virtual es considerablemente más rápido que adquirir, instalar y configurar un servidor físico.
+Un proveedor de la nube mantiene el hardware actualizado, pero el mantenimiento del sistema operativo y la configuración de la red se dejan al inquilino de la nube.
+Una ventaja de este modelo de servicio en la nube es la rápida implementación de nuevos dispositivos informáticos. 
 
 ***PaaS***
 
-Este modelo de servicio en la nube es un entorno de alojamiento gestionado. El proveedor de la nube administra las máquinas virtuales y los recursos de red, y el inquilino de la nube implementa sus aplicaciones en el entorno de alojamiento administrado. Por ejemplo, Azure App Services proporciona un entorno de hospedaje administrado donde los desarrolladores pueden cargar sus aplicaciones web sin tener que lidiar con los requisitos físicos de hardware y software.
+El proveedor de la nube administra las máquinas virtuales y los recursos de red, y el inquilino de la nube implementa sus aplicaciones en el entorno de alojamiento administrado. 
 
 ***SaaS***
 
-En este modelo de servicio en la nube, el proveedor de la nube gestiona todos los aspectos del entorno de la aplicación, como máquinas virtuales, recursos de red, almacenamiento de datos y aplicaciones. El inquilino de la nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de la nube. Por ejemplo, Office 365 proporciona una versión completamente funcional de Office que se ejecuta en la nube. Todo lo que necesita hacer es crear su contenido y Office 365 se encarga de todo lo demás.
+En este modelo de servicio en la nube, el proveedor de la nube gestiona todos los aspectos del entorno de la aplicación, como máquinas virtuales, recursos de red, almacenamiento de datos y aplicaciones. El inquilino de la nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de la nube.
 
 ***Nube pública***
 
@@ -101,16 +100,7 @@ Azure Portal es una consola unificada basada en web que ofrece una alternativa a
 
 ***Azure Marketplace***
 
-Ayuda a conectar a los usuarios con socios de Microsoft, proveedores de software independientes y nuevas empresas que ofrecen sus soluciones y servicios, que están optimizados para ejecutarse en Azure. Los clientes de Azure Marketplace pueden buscar, probar, comprar y aprovisionar aplicaciones y servicios de cientos de proveedores de servicios líderes. Todas las soluciones y servicios están certificados para ejecutarse en Azure.
-
-***Cuenta gratuita de Azure***
-
-La cuenta gratuita de Azure es una forma excelente para que los nuevos usuarios comiencen y exploren. Para registrarse, necesita un número de teléfono, una tarjeta de crédito y una cuenta de Microsoft o GitHub. La información de la tarjeta de crédito se usa solo para verificación de identidad. No se le cobrará por ningún servicio hasta que actualice a una suscripción paga.
-
-***Learn Sandbox***
-
-Muchos de los ejercicios de Learn usan una tecnología llamada sandbox, que crea una suscripción temporal que se agrega a su cuenta de Azure. Esta suscripción temporal le permite crear recursos de Azure durante la duración de un módulo de aprendizaje. Learn limpia automáticamente los recursos temporales después de que haya completado el módulo.
-Cuando esté completando un módulo de Learn, puede usar su suscripción personal para completar los ejercicios en un módulo. Sin embargo, el espacio aislado es el método preferido porque le permite crear y probar recursos de Azure sin costo alguno para usted.
+Espacio que ayuda a conectar a los usuarios con socios de Microsoft, proveedores de software independientes y nuevas empresas que ofrecen sus soluciones y servicios, que están optimizados para ejecutarse en Azure.
 
 ___
 
