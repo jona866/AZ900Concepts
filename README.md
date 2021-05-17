@@ -9,9 +9,9 @@
 ## Módulos
 
 ### Semana 1
-- [Introduction to Azure fundamentals](Content/IAF.md) 
-- [Discuss Azure fundamental concepts](Content/DAFC.md)
-- [Describe core Azure architectural components](Content/DCAAC.md)
+- [Introducción a los aspectos básicos de Azure](Content/IAF.md) 
+- [Conceptos fundamentales de Azure](Content/DAFC.md)
+- [Descripción de los componentes principales de la arquitectura de Azure](Content/DCAAC.md)
 
 ### Semana 2
 - [Exploración de los servicios de análisis y bases de datos de Azure]()
